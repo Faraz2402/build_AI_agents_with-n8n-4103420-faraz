@@ -3,33 +3,20 @@ This is the repository for the LinkedIn Learning course `Build AI Agents with n8
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+## Course Description
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+In this scenario-driven course, learn how to build an AI-powered pre-sales agent using n8n and a large language model (LLM) of your choice. Tobias Zwingmann—a managing partner at RAPYD.AI, an AI consulting firm—takes you through how to design a bot that starts small, having access to just a single tool. Then, take your agent to the next level, so it can not only recommend suitable products, but also calculate offers based on a custom pricing mechanic, create offer documents from internal templates, and even prepare emails that are ready to be sent out to prospects. Along the way, Tobias ensures that you’re not just learning tools—you’re solving real-world challenges. After finishing this course, you’ll be familiar with the core concepts of building custom AI agents in n8n and what it takes to move toward production-ready deployment. Whether you’re a software developer or a tech-savvy business professional, this course offers a quick start in building practical, high-impact AI agents.
 
-When switching from one exercise files branch to the next after making changes to the files, you may get a message like this:
+## Instructor
 
-    error: Your local changes to the following files would be overwritten by checkout:        [files]
-    Please commit your changes or stash them before you switch branches.
-    Aborting
+Tobias Zwingmann
 
-To resolve this issue:
-	
-    Add changes to git using this command: git add .
-	Commit changes using this command: git commit -m "some message"
+AI Expert, Author, Keynote Speaker
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: [https://www.linkedin.com/learning/](https://www.linkedin.com/learning/build-ai-agents-with-n8n)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGUch7B6Euegg/learning-public-crop_675_1200/B4EZqDFnVdJ0AY-/0/1763135878835?e=2147483647&v=beta&t=m9UQ9GCzifJ9yT8lZxxH_eQiluMUvhYQmZ_0dtK4524
